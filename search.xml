@@ -4,6 +4,25 @@
   
     
     <entry>
+      <title>sublime激活</title>
+      <link href="/posts/3687249463/"/>
+      <url>/posts/3687249463/</url>
+      
+        <content type="html"><![CDATA[<div class=".article-gallery"><blockquote><p>本文由 <a href="http://ksria.com/simpread/">简悦 SimpRead</a> 转码， 原文地址 <a href="https://zhuanlan.zhihu.com/p/630422437">zhuanlan.zhihu.com</a></p></blockquote><h3 id="！！！有能力请支持正版-！！！"><a href="#！！！有能力请支持正版-！！！" class="headerlink" title="！！！有能力请支持正版 ！！！"></a>！！！有能力请支持正版 ！！！</h3><blockquote><p>新版特性与汉化教程有一堆，在此不再赘述</p></blockquote><h3 id="下载链接"><a href="#下载链接" class="headerlink" title="下载链接"></a>下载链接</h3><p><a href="https://link.zhihu.com/?target=https://www.sublimetext.com/download">Download - Sublime Text</a></p><h3 id="激活"><a href="#激活" class="headerlink" title="激活"></a>激活</h3><p>笔者当前版本 4143，亲测可用</p><p>打开 <a href="https://link.zhihu.com/?target=https://hexed.it/">hexed.it</a></p><p>按下 Ctrl+O 找到 <a href="https://zhida.zhihu.com/search?content_id=228225167&content_type=Article&match_order=1&q=sublime+text&zhida_source=entity">sublime text</a> 的安装路径，打开 <strong>sublime_text.exe</strong></p><p><a href="/./../img/%E5%85%B6%E4%BB%96/v2-42fcc12f2e90b92a013693f0be085a75_r.jpg" class="gallery-item" style="box-shadow: none;"> <img src="/./../img/%E5%85%B6%E4%BB%96/v2-42fcc12f2e90b92a013693f0be085a75_r.jpg"></a></p><p>破解：按 Ctrl+F 搜索 4157415656575553B828210000，替换为 33C0FEC0C3575553B828210000</p><p><a href="/./../img/%E5%85%B6%E4%BB%96/v2-228c46949eb8533dcf467d70068b6a93_r.jpg" class="gallery-item" style="box-shadow: none;"> <img src="/./../img/%E5%85%B6%E4%BB%96/v2-228c46949eb8533dcf467d70068b6a93_r.jpg"></a></p><p>关闭许可证检查：按 Ctrl+F 搜索 6C6963656E73652E7375626C696D6568712E636F6D，替换为 7375626C696D6568712E6C6F63616C686F73740000</p><p>操作完成后，按下 Ctrl+S，将原文件备份后（例如改名为 sublime_text.exe.bak），保存</p><p><a href="/./../img/%E5%85%B6%E4%BB%96/v2-3b7c7bdb7f28cdb7946768b86419261d_r.jpg" class="gallery-item" style="box-shadow: none;"> <img src="/./../img/%E5%85%B6%E4%BB%96/v2-3b7c7bdb7f28cdb7946768b86419261d_r.jpg"></a></p><p>运行 Sublime Text，菜单 Help-&gt;Enter License-&gt; 输入下面的<a href="https://zhida.zhihu.com/search?content_id=228225167&content_type=Article&match_order=1&q=%E6%BF%80%E6%B4%BB%E7%A0%81&zhida_source=entity">激活码</a> -&gt;Use License-&gt; 确定，软件就激活了</p><figure class="highlight plaintext"><table><tr><td class="gutter"><pre><span class="line">1</span><br><span class="line">2</span><br><span class="line">3</span><br><span class="line">4</span><br><span class="line">5</span><br><span class="line">6</span><br><span class="line">7</span><br><span class="line">8</span><br><span class="line">9</span><br><span class="line">10</span><br><span class="line">11</span><br><span class="line">12</span><br><span class="line">13</span><br><span class="line">14</span><br></pre></td><td class="code"><pre><span class="line">—– BEGIN LICENSE —–</span><br><span class="line">Zer0Daylab</span><br><span class="line">Unlimited User License</span><br><span class="line">EA7E-81044230</span><br><span class="line">0C0CD4A8 CAA317D9 CCABD1AC 434C984C</span><br><span class="line">7E4A0B13 77893C3E DD0A5BA1 B2EB721C</span><br><span class="line">4BAAB4C4 9B96437D 14EB743E 7DB55D9C</span><br><span class="line">7CA26EE2 67C3B4EC 29B2C65A 88D90C59</span><br><span class="line">CB6CCBA5 7DE6177B C02C2826 8C9A21B0</span><br><span class="line">6AB1A5B6 20B09EA2 01C979BD 29670B19</span><br><span class="line">92DC6D90 6E365849 4AB84739 5B4C3EA1</span><br><span class="line">048CC1D0 9748ED54 CAC9D585 90CAD815</span><br><span class="line">—— END LICENSE ——</span><br><span class="line"></span><br></pre></td></tr></table></figure><p><a href="/./../img/%E5%85%B6%E4%BB%96/v2-27fea4c0a3c884a602ca3274a288892f_r.jpg" class="gallery-item" style="box-shadow: none;"> <img src="/./../img/%E5%85%B6%E4%BB%96/v2-27fea4c0a3c884a602ca3274a288892f_r.jpg"></a></p><p>方法来源于 Github 的热心网友</p><p><a href="https://link.zhihu.com/?target=https://gist.github.com/skoqaq/3f3e8f28e23c881143cef9cf49d821ff?permalink_comment_id=4366207">Sublime Text 4 License Key (github.com)</a></p></div>]]></content>
+      
+      
+      <categories>
+          
+          <category> 技术 </category>
+          
+      </categories>
+      
+      
+    </entry>
+    
+    
+    
+    <entry>
       <title>Sublime与Latex配置教程</title>
       <link href="/posts/241210338/"/>
       <url>/posts/241210338/</url>
