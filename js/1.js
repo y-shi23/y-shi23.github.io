@@ -1,0 +1,1 @@
+$(document).ready(function(){var e=["h1","h2","h3","h4","h5","h6"].filter(e=>1<$(e).length).join(",");e&&$("#toc").tocify({selectors:e}),$(window).on("resize",function(){var e=$(window).height();$(".left-toc-container").css({"max-height":e-210+"px"})}),$(window).trigger("resize")});
